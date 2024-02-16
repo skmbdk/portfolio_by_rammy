@@ -1,14 +1,11 @@
 # react-tailwind-portfolio
 
-+ <a href="https://www.youtube.com/watch?v=hYv6BM2fWd8">Design</a>
+
 
 + Made with tailwind
 
-![Ekran görüntüsü 2023-01-28 221435](https://user-images.githubusercontent.com/104009655/215286744-b85473b0-22cd-4deb-9152-149cad4c90cd.png)
-
-![Ekran görüntüsü 2023-01-28 221445](https://user-images.githubusercontent.com/104009655/215286723-3defaee7-09e9-4fc6-8ab4-4d6187ffc001.png)
-
-![Ekran görüntüsü 2023-01-28 221901](https://user-images.githubusercontent.com/104009655/215286846-86706df7-37a1-4764-b4b7-6aafa74c2a18.png)
-
-![Ekran görüntüsü 2023-01-28 221504](https://user-images.githubusercontent.com/104009655/215286732-3522a344-a21f-4a77-9c8f-dd72ce881288.png)
+![Screenshot (14)](https://github.com/skmbdk/portfolio_by_rammy/assets/140899891/b16dcf70-0f32-4186-a2f8-228ed619aa3b)
+![Screenshot (15)](https://github.com/skmbdk/portfolio_by_rammy/assets/140899891/f7bd0f64-492b-4e85-a12e-a69792900bf6)
+![Screenshot (16)](https://github.com/skmbdk/portfolio_by_rammy/assets/140899891/e7384ba3-4934-43a4-b3a2-e73b33dc862c)
+![Screenshot (17)](https://github.com/skmbdk/portfolio_by_rammy/assets/140899891/e48b7429-1ba4-44f1-90ae-af388cf7d844)
 # portfolio_by_rammy
