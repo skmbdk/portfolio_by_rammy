@@ -4,8 +4,9 @@ hosting site-:https://rammysportfolio.netlify.app/
 
 + Made with tailwind
 
-![Screenshot (14)](https://github.com/skmbdk/portfolio_by_rammy/assets/140899891/b16dcf70-0f32-4186-a2f8-228ed619aa3b)
-![Screenshot (15)](https://github.com/skmbdk/portfolio_by_rammy/assets/140899891/f7bd0f64-492b-4e85-a12e-a69792900bf6)
-![Screenshot (16)](https://github.com/skmbdk/portfolio_by_rammy/assets/140899891/e7384ba3-4934-43a4-b3a2-e73b33dc862c)
-![Screenshot (17)](https://github.com/skmbdk/portfolio_by_rammy/assets/140899891/e48b7429-1ba4-44f1-90ae-af388cf7d844)
+![Screenshot (20)](https://github.com/skmbdk/portfolio_by_rammy/assets/140899891/c44b24c3-a45a-493d-bfdf-0a16526d0c94)
+![Screenshot (21)](https://github.com/skmbdk/portfolio_by_rammy/assets/140899891/1a9bcd78-8605-4623-9295-602541ade8f8)
+![Screenshot (22)](https://github.com/skmbdk/portfolio_by_rammy/assets/140899891/0b112385-af96-4db1-9e61-70af15f55f07)
+![Screenshot (23)](https://github.com/skmbdk/portfolio_by_rammy/assets/140899891/e1615660-9480-4a00-aa6b-fee49b8649d7)
+
 # portfolio_by_rammy
