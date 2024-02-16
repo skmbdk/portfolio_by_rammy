@@ -1,9 +1,6 @@
 # react-tailwind-portfolio
 
-<<<<<<< HEAD
-=======
-
->>>>>>> 5cd2c437d601ade17500ba129fad20b2d1b23bdb
+hosting site-:https://rammysportfolio.netlify.app/
 
 + Made with tailwind
 
