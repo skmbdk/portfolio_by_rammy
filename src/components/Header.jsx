@@ -16,7 +16,8 @@ function Header() {
           <button  className=' border-2 border-[#b0aaaa] font-bold text-white bg-[linear-gradient(90deg,#b004b0,#38097a)] p-4 rounded-2xl'>Welcome to my Portfolio</button>
         </div>
         <h1 className='text-white text-5xl font-bold'>Hi! I'm Rammy</h1>
-        <p className='text-white py-4 max-w-lg '>Lorem ipsum dolor sit amet consectetur  adipisicing elit. In qui impedit  sunt, est molestiae ullam. Saepe voluptatum ducimus adipisci pariatur. adipisicing elit.  In qui impedit ipsum dolor sit amet consectetur</p>
+        <p className='text-white py-4 max-w-lg '>a creative and enthusiastic web developer. With a passion for crafting digital experiences, I bring dedication and innovation to every project. Let's connect and explore the possibilities together!
+</p>
         {/* <button className='  text-white text-2xl'>Let's Connect <i className="fa-solid fa-arrow-right text-lg  p-[2px] "></i> </button> */}
         <button className='text-white text-2xl'>
   <a

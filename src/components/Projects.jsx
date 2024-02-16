@@ -53,10 +53,7 @@ function Projects() {
       <div id="projects" className="projects  bg-[#171717] text-white py-10">
         <h1 className="text-center text-4xl font-bold py-6">Projects</h1>
         <p className="text-center max-w-[1000px] lg:px-6 mx-auto text-[#939191]">
-          lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur,
-          cupiditate! Molestiae placeat architecto nihil obcaecati illum minima
-          incidunt dolores? Officia consectetur optio non totam cum eos soluta
-          ipsa et quod.
+        Discover a showcase of my latest works, where I've passionately brought ideas to life through web development. Explore the seamless integration of technology and creativity in these featured projects.
         </p>
         <div className="flex justify-center items-center gap-4 mt-12 mb-2 ">
           <button
@@ -94,10 +91,15 @@ function Projects() {
             id="text2"
             className="tab-pane  text-center text-white py-16 max-w-4xl mx-auto lg:p-5 "
           >
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati
-            atque porro quasi dolorum facere tempore maxime nemo quia nulla
-            blanditiis doloribus, dolore, voluptas aspernatur harum facilis
-            cumque magni soluta sapiente.
+            {/* <strong>Coming Soon</strong> */}
+
+            {/* <div className="flex items-center justify-center h-screen"> */}
+      <div className="text-center">
+        <h1 className="text-4xl font-bold mb-4 animate-pulse">Coming Soon ...</h1>
+        <p className="text-gray-600">Exciting things are in the works. Stay tuned!</p>
+      </div>
+    {/* </div> */}
+
           </div>
         ) : null}
         {durum === 3 ? (
@@ -105,7 +107,14 @@ function Projects() {
             id="text1"
             className="tab-pane  text-center text-white py-5   lg:p-5"
           >
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Cum, nisi.
+            {/* <strong>Coming Soon</strong> */}
+
+
+            <div className="text-center">
+        <h1 className="text-4xl font-bold mb-4 animate-pulse">Coming Soon ...</h1>
+        <p className="text-gray-600">Exciting things are in the works. Stay tuned!</p>
+      </div>
+
           </div>
         ) : null}
       </div>
